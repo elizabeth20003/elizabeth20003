@@ -4,6 +4,14 @@
 </div>
 <img src="https://github.com/elizabeth20003/elizabeth20003/blob/main/Purple%20Modern%20Geometric%20Graphic%20Designer%20LinkedIn%20Banner.jpg">
 
-## 🚀 About me
-- 🎯 I specialize in **various programming languages** and have experience with **Linux and Docker** 
-- 💡 Currently learning **unit testing in Jetpack Compose** 
+##🚀 About Me
+🎯 Software Developer with expertise in:
+🔹 Backend: Java (Spring Boot), Python
+🔹 Frontend: JavaScript (Bootstrap,HTML,CSS)
+🔹 Databases: SQL, PHP
+🔹 DevOps & Cloud: Linux, Docker, AWS SAM
+💡 Currently learning unit testing in Jetpack Compose
+🛠️ Experienced in web development with AWS SAM, Java, and Spring Boot
+📚 Passionate about building efficient and scalable applications using Bootstrap
+
+## Certificates
