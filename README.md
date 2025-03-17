@@ -14,4 +14,4 @@
 🛠️ Experienced in web development with AWS SAM, Java, and Spring Boot
 📚 Passionate about building efficient and scalable applications using Bootstrap
 
-## Certificates
+
